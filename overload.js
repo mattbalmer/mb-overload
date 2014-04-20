@@ -79,7 +79,6 @@ overloadable = function(defaultFunc) {
             }
         }
 
-        console.log('call default');
         return func.defaultFunc.apply(this, arguments)
     };
     func.funcs = [];
