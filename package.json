@@ -1,6 +1,7 @@
 {
     "name": "mb-overload",
     "version": "0.0.1",
+    "description": "Super-lightweight JavaScript method overloading.",
     "devDependencies": {
         "karma": "^0.12.17",
         "karma-chrome-launcher": "^0.1.4",
